@@ -4,7 +4,7 @@ chardet==3.0.4
 get==2018.11.19
 html5lib==1.0.1
 idna==2.8
-lxml==4.3.2
+lxml==4.9.1
 post==2018.11.20
 public==2018.11.20
 query-string==2018.11.20
